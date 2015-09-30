@@ -15,12 +15,12 @@ public interface EntityConstants {
     /**
      * Defines the person whose birthday it is.
      */
-    String BIRTHDAY_PERSON = "Oneal";
+    String BIRTHDAY_PERSON = "John Cena";
     
     /**
      * Stores the birth date of the {@link #BIRTHDAY_PERSON}.
      */
-    LocalDateTime BIRTH_DATE = LocalDateTime.of(1996, 9, 30, 0, 0, 0);
+    LocalDateTime BIRTH_DATE = LocalDateTime.of(1977, 4, 23, 0, 0, 0);
     
     /**
      * Defines a random starting point for an entity on an arbitrary x-y grid.

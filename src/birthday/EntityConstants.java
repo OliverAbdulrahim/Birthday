@@ -51,4 +51,5 @@ public interface EntityConstants {
      * Defines the time step between translations and image repaints.
      */
     int TIME_STEP_MILLIS = 10;
+    
 }
